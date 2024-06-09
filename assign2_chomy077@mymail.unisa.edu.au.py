@@ -51,7 +51,6 @@ def read_file(filename):
     
     return player_list
 
-
 # Function display_players() - Display a list of players
 def display_players(player_list): 
     print("===========================================================")
