@@ -1,10 +1,8 @@
 #
-# File: assign2_chomy077@mymail.unisa.edu.au.py
+# File: Main
 # Author: Mridul Chopra
 # Email Id: chomy077@mymail.unisa.edu.au
-# Description: Assignment 2 – A python script which reads and rights itno a file. and plays a game of blackjacks(dice version)
-# This is my own work as defined by the University's
-# Academic Misconduct policy.Description: Blackjack game assign2
+# Description: A python script which reads and rights itno a file. and plays a game of blackjacks(dice version)
 #
 
 import blackjack

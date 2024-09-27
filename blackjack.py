@@ -1,12 +1,9 @@
 #
-#  PSP Assignment 2, SP2 2024 - Provided module blackjack.py.
+# File: Blacjack
+# Author: Mridul Chopra
+# Description:  Play one game of blackJack(dice) against the computer (consist of functions).
 #
-#  File:   blackjack.py
-#
-#  Description:  Play one game of blackJack(dice) against the computer.
-#
-#  DO NOT modify this file.
-#
+
 
 import random
 
